@@ -4,11 +4,11 @@ import logo from './logo.svg';
 import './App.css';
 
 const colors = [
-  "white",
-  "red",
-  "green",
-  "blue",
+  "cyan",
+  "magenta",
+  "yellow",
   "black",
+  "white",
 ];
 const Square = (props: any) => {
   const [col, setCol] = useState(props.initialCol)
