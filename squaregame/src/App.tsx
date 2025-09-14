@@ -5,9 +5,9 @@ import './App.css';
 
 const colors = [
   "white",
-  "green",
-  "blue",
-  "red",
+  "cyan",
+  "yellow",
+  "magenta",
   "black",
 ];
 const Square = (props: any) => {
