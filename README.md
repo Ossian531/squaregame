@@ -1,5 +1,2 @@
 # squaregame
-
 This is squaregame
-
-
