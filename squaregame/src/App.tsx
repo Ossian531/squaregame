@@ -5,7 +5,7 @@ import './App.css';
 
 const colors = [
   "white",
-  "red",
+  "purple",
   "yellow",
   "blue",
   "black",
