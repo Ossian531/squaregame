@@ -4,8 +4,8 @@ import logo from './logo.svg';
 import './App.css';
 
 const colors = [
-  "white",
   "green",
+  "white",
   "purple",
   "blue",
   "black",
